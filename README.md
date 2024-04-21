@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning blockchain and low-level programming language
 - ⚡ Fun fact: I did it because I didn't know
 <!--
