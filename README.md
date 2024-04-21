@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning blockchain and low-level programming language
+- ⚡ Fun fact: I did it because I didn't know
 <!--
 **dangthanhduong01/dangthanhduong01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
