@@ -1,5 +1,4 @@
-### Hi there 👋
-- 🌱 I’m currently learning blockchain and low-level programming language
+### Hi there Im Lazyyyyyy 😪😪😪😪😪
 <!--
 **dangthanhduong01/dangthanhduong01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
