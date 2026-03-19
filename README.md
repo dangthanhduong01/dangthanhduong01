@@ -1,4 +1,5 @@
-😪😪😪😪😪😪
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!!;I'm+Duong;Backend+Developer;Golang+Engineer;Web3+Builder)
+
 <!--
 **dangthanhduong01/dangthanhduong01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
