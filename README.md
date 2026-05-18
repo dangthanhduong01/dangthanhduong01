@@ -1,29 +1,15 @@
-<div align="center">
-
-# dangthanhduong01
-
-![Dang Thanh Duong profile terminal laptop](./assets/laptop-profile.svg)
-
-</div>
-
-<!-- ```bash
-duong@github ~/profile
-$ git status
-```
-
-```text
-On branch main
-Currently exploring: AI agents, model building, and practical software engineering
-```
-
 ```bash
-duong@github ~/profile
-$ cat ./interests.txt
-```
+dangthanhduong01@github:~$ ./profile --summary
 
-```text
-Coding
-Reading
-Watching
-Relaxing
-``` -->
+name        Dang Thanh Duong
+pronouns    He/Him
+location    Hanoi, Vietnam
+os          Ubuntu
+
+stack       Go, Python, Java, JavaScript, C++, Linux
+learning    AI models, AI agents
+interests   Coding, Reading, Watching, Relaxing
+
+email       thanhduong020601@gmail.com
+status      learning, building, shipping
+```
